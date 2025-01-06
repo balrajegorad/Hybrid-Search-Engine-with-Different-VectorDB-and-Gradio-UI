@@ -1,0 +1,5 @@
+pymilvus
+sentence-transformers
+gradio
+pymysql
+pandas
